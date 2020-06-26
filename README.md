@@ -6,6 +6,6 @@ Para instalar dependencias
 ## Correr el proyecto
 > npm start
 
-##Autor
+## Autor
 
 @Alejandro Soto
